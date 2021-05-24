@@ -1,0 +1,18 @@
+.card-clientes{
+    color: white;
+    background-color:#003E88;
+    margin: 10px 0 10px;
+}
+
+.imagen-cliente{
+    background-color: white;
+    height: 250px;
+}
+
+.link-cliente{
+    color: white;
+}
+
+.link-cliente:hover{
+    color: black;
+}

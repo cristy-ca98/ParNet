@@ -1,0 +1,13 @@
+.a-size{
+    font-size: small;
+    color: white;
+    text-decoration: underline;
+}
+
+.a-size:hover{
+    color: black;
+}
+
+.footer{
+    background-image: url("../images/footer/bg.png");
+}

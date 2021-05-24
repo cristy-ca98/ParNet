@@ -1,0 +1,27 @@
+.color-titulo{
+    color: #FFFF01;
+}
+.tarjeta-caso{
+    background-color: #6177a0;
+    margin-top: 1rem;
+    border-radius: 2rem;
+    padding: 1rem;
+}
+
+.tarjeta-foto{
+    display: flex;
+    flex-flow: column;
+    min-height: inherit;
+    justify-content: center;
+    align-items: center;
+}
+.tarjeta-texto{
+    padding: 1rem;
+}
+.tarjeta-foto img{
+    width: 70%;
+    border-radius: 100%;
+}
+.row .tarjeta-caso:last-of-type{
+    margin-bottom: 1rem;
+}

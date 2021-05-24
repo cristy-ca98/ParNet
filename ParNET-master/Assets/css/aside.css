@@ -1,0 +1,54 @@
+.aside{
+    min-height: inherit;
+    background: #013f8b;
+    background-size: cover;
+}
+.noticias-header{
+    background: url("../img/header noticias.png");
+    background-size: cover;
+    width: 100%;
+}
+.noticias-content{
+    overflow-y: scroll;
+    width: 100%;
+    max-height: 10rem;
+    background: url("../img/bg_noticias.png");
+    background-size: cover;
+    color: white;
+}
+.control-panel{
+    background: url("../img/bg_noticias.png");
+    background-size: cover;
+    width: 100%;
+}
+.panel-button{
+    background: url("../img/panel de control.png");
+    background-size: cover;
+    display: inline-block;
+    width: 90%;
+    padding: 0 .2rem 0 .2rem;
+}
+.area-header{
+    background: url("../img/header_menu_version\ 1.png");
+    width: 100%;
+}
+.area-content{
+    background-color: rgb(0, 209, 224);
+}
+.area-button{
+    display: inline-block;
+    background: linear-gradient(180deg, rgba(0,212,255,1) 0%, rgba(151,237,255,1) 50%, rgba(255,255,255,1) 100%);
+    width: 95%;
+    margin: .1rem;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #0069D0;
+    color: blue;
+    text-align: left;
+    padding: 0 .2rem 0 .2rem;
+}
+.marcas-y-proveedores{
+    background:url("../img/bg_position_menu.png");
+    width: 100%;
+}

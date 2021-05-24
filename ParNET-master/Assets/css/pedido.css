@@ -1,0 +1,13 @@
+.btnpedido{
+    background-color: rgb(156, 8, 8);
+    color: white;
+
+}.form-pedido{
+    width: 100%;
+}
+.container-form{
+    background-color: #6177a0;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
